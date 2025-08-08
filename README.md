@@ -43,13 +43,18 @@ nodemon indesx.js
 node index.js
 ## 📸 Screenshots
 
+
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/home1.png)
 
 ### Login Page
-![Login Page](./screenshots/login.png)
+![Login Page](./screenshots/login2.png)
+### Registration page 
+![Login Page](./screenshots/Reg3.png)
+### Data Entry
+![das4 page](./screenshort/das4.png)
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Das5 page](./screenshots/das5.png)
 
 
