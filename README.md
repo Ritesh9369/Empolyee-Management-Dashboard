@@ -24,12 +24,10 @@ This project is a **full-stack Employee Management Dashboard** developed as part
 - **Database:** Mysql 
 - **Authentication:** JWT 
 
-## File And Folder Structure
-### Frontend Structure
-![Frontend Structure](./screenshots/frontstra.png)
 
-### Backend Structure
-![Backend Structure](./screenshots/backstr.png)
+
+
+
 
 ## ⚙️ How to Run Locally
 1. **Clone the repository**
@@ -40,11 +38,18 @@ cd frontend
 npm install
 npm i bootstrap@5.3.7
 npm install @fortawesome/fontawesome-free animate.css axios bootstrap file-saver framer-motion react react-bootstrap react-csv react-dom react-router-dom xlsx
+## File And Folder Structure
+### Frontend Structure
+![Frontend Structure](./screenshots/frontstra.png)
+
 ## Start frontend
 npm run dev
 ## Install dependencies for backend
 cd backend
 npm install
+## File And Folder Structure
+### Backend Structure
+![Backend Structure](./screenshots/backstr.png)
 ## Start backend
 nodemon indesx.js
 node index.js
