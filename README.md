@@ -42,19 +42,26 @@ npm install
 nodemon indesx.js
 node index.js
 ## 📸 Screenshots
-
-
 ### Home Page
 ![Home Page](./screenshots/home1.png)
 
 ### Login Page
 ![Login Page](./screenshots/login2.png)
-### Registration page 
-![Login Page](./screenshots/reg3.png)
+
+### Registration Page 
+![Registration Page](./screenshots/reg3.png)
+
 ### Data Entry
-![Das4 page](./screenshorts/Das4.png)
+![Das4 Page](./screenshots/Das4.png)
 
 ### Dashboard
-![Das5 page](./screenshots/das5.png)
+![Das5 Page](./screenshots/das5.png)
+
+
+
+
+
+
+
 
 
