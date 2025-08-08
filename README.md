@@ -22,7 +22,14 @@ This project is a **full-stack Employee Management Dashboard** developed as part
 - **Frontend:** React.js, Bootstrap  
 - **Backend:** Node.js, Express.js  
 - **Database:** Mysql 
-- **Authentication:** JWT  
+- **Authentication:** JWT 
+
+## File And Folder Structure
+### Frontend Structure
+![Frontend Structure](./screenshots/frontstra.png)
+
+### Backend Structure
+![Backend Structure](./screenshots/backstr.png)
 
 ## ⚙️ How to Run Locally
 1. **Clone the repository**
