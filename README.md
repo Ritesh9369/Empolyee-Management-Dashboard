@@ -50,9 +50,9 @@ node index.js
 ### Login Page
 ![Login Page](./screenshots/login2.png)
 ### Registration page 
-![Login Page](./screenshots/Reg3.png)
+![Login Page](./screenshots/reg3.png)
 ### Data Entry
-![das4 page](./screenshort/das4.png)
+![das4 page](./screenshort/Das4.png)
 
 ### Dashboard
 ![Das5 page](./screenshots/das5.png)
