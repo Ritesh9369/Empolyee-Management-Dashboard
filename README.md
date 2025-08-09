@@ -51,7 +51,7 @@ npm install
 ### Backend Structure
 ![Backend Structure](./screenshots/backstr.png)
 ## Start backend
-nodemon indesx.js
+nodemon indesx.js or
 node index.js
 ## 📸 Screenshots
 ### Home Page
